@@ -44,6 +44,7 @@ int main(void)
     }
 
     print_list(pos);
-
+    free_list(pos);
+    
     return EXIT_SUCCESS;
 }
