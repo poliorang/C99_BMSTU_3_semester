@@ -14,7 +14,7 @@ node_t *create_node(char *line)
 
 int read_node(char *line, node_t **list)
 {
-    int read;
+    ssize_t read;
     size_t len;
 
     read = getline(&line, &len, stdin);
