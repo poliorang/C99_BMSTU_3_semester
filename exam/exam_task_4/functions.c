@@ -51,7 +51,6 @@ node_t *pop_max_elems(node_t *head, int max_num)
     node_t *tmp = head;
     while (tmp->next)
     {
-        printf("%d\n", tmp->data);
         if (tmp->next->data == max_num)
         {
             node_t *node = tmp->next;
