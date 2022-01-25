@@ -1,0 +1,1 @@
+../app.exe neg_00_in.txt out.txt

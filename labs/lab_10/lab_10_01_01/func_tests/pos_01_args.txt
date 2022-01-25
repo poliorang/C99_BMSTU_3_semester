@@ -1,0 +1,1 @@
+../app.exe pos_01_in.txt out.txt i pos_01_in_02.txt

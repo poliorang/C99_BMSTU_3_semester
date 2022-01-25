@@ -1,0 +1,2 @@
+../app.exe pos_04_in.txt out.txt
+

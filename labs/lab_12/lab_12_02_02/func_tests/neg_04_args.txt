@@ -1,0 +1,1 @@
+py func_tests.py filter_with_stock_memory neg_04_in.txt neg_04_out.txt
